@@ -1,2 +1,0 @@
-# Sumaq-page
-Carta
